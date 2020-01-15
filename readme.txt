@@ -6,4 +6,4 @@ Git tracks changes of files.
 create a new branch1.it's very simple.
 测试合并模式不使用fast forward。
 还需要三天才能提交,现在可以提交了.
-
+b在这里加了一行。
